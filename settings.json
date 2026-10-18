@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "MineoraNetwork.mcsh.io",
-    "port": 75375,
+    "port": 25565,
     "version": "26.1.2"
   },
   "position": {
