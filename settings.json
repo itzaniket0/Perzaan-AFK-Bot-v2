@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mineoranetwork.mcsh.io",
-    "port": 25565,
+    "ip": "mineoranetwork.halixcloud.in",
+    "port": 19156,
     "version": "1.20.1"
   },
   "position": {
